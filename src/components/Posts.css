@@ -1,0 +1,14 @@
+.posts {
+  display: flex;
+  justify-content: center;
+}
+
+.posts__leftRow {
+  width: 50vw;
+}
+
+@media (max-width: 600px) {
+  .posts__leftRow {
+    width: 95vw;
+  }
+}

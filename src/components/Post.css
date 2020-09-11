@@ -1,0 +1,23 @@
+.post {
+  margin: 3vh auto;
+}
+.post__cardCommentInput {
+  display: flex;
+  padding: 10px;
+}
+
+.post__cardCommentInput .commentInput {
+  flex: 1;
+}
+
+.post__commentBox {
+  padding: 5px 10px;
+}
+
+.post__comment {
+  display: flex;
+  padding: 5px 5px;
+
+  width: 100%;
+  border-bottom: 1px solid #edeaea;
+}

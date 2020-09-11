@@ -3,5 +3,13 @@
   justify-content: space-between;
   border-bottom: 1px solid #f9f9f9;
   align-items: center;
-  padding: auto 2rem;
+  background-color: white;
+}
+
+.appheader__buttons button {
+  margin-right: 10px;
+}
+.appheader__signup {
+  display: flex;
+  flex-direction: column;
 }
